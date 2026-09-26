@@ -1,0 +1,15 @@
+2 sayısının küpü: 8 | Güncel Toplam: 8
+4 sayısının küpü: 64 | Güncel Toplam: 72
+6 sayısının küpü: 216 | Güncel Toplam: 288
+8 sayısının küpü: 512 | Güncel Toplam: 800
+10 sayısının küpü: 1000 | Güncel Toplam: 1800
+12 sayısının küpü: 1728 | Güncel Toplam: 3528
+14 sayısının küpü: 2744 | Güncel Toplam: 6272
+16 sayısının küpü: 4096 | Güncel Toplam: 10368
+18 sayısının küpü: 5832 | Güncel Toplam: 16200
+20 sayısının küpü: 8000 | Güncel Toplam: 24200
+--------------------------------------------------
+1-20 arası çift sayıların küplerinin genel toplamı: 24200
+
+
+** Process exited - Return Code: 0 **
